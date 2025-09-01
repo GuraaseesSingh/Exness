@@ -1,0 +1,1 @@
+export const uuKeyRedisQueue = "aj3949jjeij@"
